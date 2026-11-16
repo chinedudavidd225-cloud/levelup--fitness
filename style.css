@@ -39,3 +39,4 @@ details p{margin-top:6px}
 @keyframes pop{from{transform:scale(.4);opacity:0}}
 input{font:inherit;width:100%;padding:10px;border-radius:10px;border:1px solid var(--line);background:#0b1218;color:#fff}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+[hidden]{display:none!important}
